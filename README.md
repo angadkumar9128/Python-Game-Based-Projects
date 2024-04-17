@@ -21,10 +21,13 @@ Play the timeless game of Rock, Paper, Scissors against the computer. Implement 
 # Stickman Game: 
 Dive into the world of stick figures with this interactive game. Utilize Python's graphics capabilities to create animated stickman characters.
 
-# Tank Game: Command a tank and engage in epic battles in this thrilling game. Develop AI algorithms and game physics using Python.
+# Tank Game:
+Command a tank and engage in epic battles in this thrilling game. Develop AI algorithms and game physics using Python.
 
 # Typing Test: 
 Improve your typing speed and accuracy with this typing test application. Track your progress and challenge yourself to achieve faster typing speeds.
+
+
 
 Each project comes with detailed documentation and code explanations to facilitate learning and understanding. Whether you're a beginner or an experienced developer, these projects offer a fun way to sharpen your Python skills and unleash your creativity.
 
